@@ -1,0 +1,27 @@
+{
+  "name": "smartbillions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soql/smartbillions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soql/smartbillions/issues"
+  },
+  "homepage": "https://github.com/soql/smartbillions#readme",
+  "devDependencies": {
+    "colors": "^1.1.2"
+  },
+  "dependencies": {
+    "dateformat": "^3.0.2",
+    "mysql": "^2.15.0",
+    "web3": "^0.20.2"
+  }
+}
